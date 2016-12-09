@@ -53,8 +53,8 @@
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <!-- use jssor.slider.mini.js (40KB) instead for release -->
     <!-- jssor.slider.mini.js = (jssor.js + jssor.slider.js) -->
-    <script type="text/javascript" src="https://raw.githack.com/gards25/sdt4Slider/master/SDT4_Profiler/js/jssor.js"></script>
-    <script type="text/javascript" src="https://raw.githack.com/gards25/sdt4Slider/master/SDT4_Profiler/js/jssor.slider.js"></script>
+    <script type="text/javascript" src="https://raw.githack.com/tinoliveria/testing/master/SDT4_Profiler/js/jssor.js"></script>
+    <script type="text/javascript" src="https://raw.githack.com/tinoliveria/testing/master/SDT4_Profiler/js/jssor.slider.js"></script>
     <script>
         jQuery(document).ready(function ($) {
 			
@@ -161,7 +161,7 @@
             <div style="filter: alpha(opacity=70); opacity:0.7; position: absolute; display: block;
                 background-color: #000000; top: 0px; left: 0px;width: 100%;height:100%;">
             </div>
-            <div style="position: absolute; display: block; background: url(https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/loading.gif) no-repeat center center;
+            <div style="position: absolute; display: block; background: url(https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/loading.gif) no-repeat center center;
                 top: 0px; left: 0px;width: 100%;height:100%;">
             </div>
         </div>
@@ -169,8 +169,8 @@
         <!-- Slides Container -->
         <div u="slides" style="cursor: move; position: absolute; left: 240px; top: 0px; width: 720px; height: 480px; overflow: hidden;">
             <div>
-                <img u="image" src="https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/Neri.jpg" />
-                <img u="thumb" src="https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/Neri-thumb.jpg" />
+                <img u="image" src="https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/Neri.jpg" />
+                <img u="thumb" src="https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/Neri-thumb.jpg" />
                 <div u="thumb" style="z-index: 1; font-family:calibri; font-size:15px;">
 					<br />
 					<table>
@@ -227,8 +227,8 @@
 				</div>
             </div>
             <div>
-                <img u="image" src="https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/Gabby.jpg" />
-                <img u="thumb" src="https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/Gabby-thumb.jpg" />
+                <img u="image" src="https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/Gabby.jpg" />
+                <img u="thumb" src="https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/Gabby-thumb.jpg" />
                 <div u="thumb" style="z-index: 1; font-family:calibri; font-size:15px;">
 					<br />
 					<table>
@@ -276,8 +276,8 @@
 				</div>
             </div>
             <div>
-                <img u="image" src="https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/John.jpg" />
-                <img u="thumb" src="https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/John-thumb.jpg" />
+                <img u="image" src="https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/John.jpg" />
+                <img u="thumb" src="https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/John-thumb.jpg" />
                 <div u="thumb" style="z-index: 1; font-family:calibri; font-size:15px;">
 					<br />
 					<table>
@@ -334,8 +334,8 @@
 				</div>
             </div>
             <div>
-                <img u="image" src="https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/Gards.jpg" />
-                <img u="thumb" src="https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/Gards-thumb.jpg" />
+                <img u="image" src="https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/Gards.jpg" />
+                <img u="thumb" src="https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/Gards-thumb.jpg" />
                 <div u="thumb" style="z-index: 1; font-family:calibri; font-size:15px;">
 					<br />
 					<table>
@@ -389,8 +389,8 @@
 				</div>
             </div>
             <div>
-                <img u="image" src="https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/Dana.jpg" />
-                <img u="thumb" src="https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/Dana.jpg" />
+                <img u="image" src="https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/Dana.jpg" />
+                <img u="thumb" src="https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/Dana.jpg" />
                 <div u="thumb" style="z-index: 1; font-family:calibri; font-size:15px;">
 					<br />
 					<table>
@@ -441,8 +441,8 @@
 				</div>
             </div>
             <div>
-                <img u="image" src="https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/Riza.jpg" />
-                <img u="thumb" src="https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/Riza-thumb.jpg" />
+                <img u="image" src="https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/Riza.jpg" />
+                <img u="thumb" src="https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/Riza-thumb.jpg" />
                 <div u="thumb" style="z-index: 1; font-family:calibri; font-size:15px;">
 					<br />
 					<table>
@@ -499,8 +499,8 @@
 				</div>
             </div>
             <div>
-                <img u="image" src="https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/Micka.jpg" />
-                <img u="thumb" src="https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/Micka-thumb.jpg" />
+                <img u="image" src="https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/Micka.jpg" />
+                <img u="thumb" src="https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/Micka-thumb.jpg" />
                 <div u="thumb" style="z-index: 1; font-family:calibri; font-size:15px;">
 					<br />
 					<table>
@@ -554,8 +554,8 @@
 				</div>
             </div>
             <div>
-                <img u="image" src="https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/Lara.jpg" />
-                <img u="thumb" src="https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/Lara-thumb.jpg" />
+                <img u="image" src="https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/Lara.jpg" />
+                <img u="thumb" src="https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/Lara-thumb.jpg" />
                 <div u="thumb" style="z-index: 1; font-family:calibri; font-size:15px;">
 					<br />
 					<table>
@@ -603,8 +603,8 @@
 				</div>
             </div>
             <div>
-                <img u="image" src="https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/Bryan.jpg" style="z-index:0"/>
-                <img u="thumb" src="https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/Bryan-thumb.jpg" />
+                <img u="image" src="https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/Bryan.jpg" style="z-index:0"/>
+                <img u="thumb" src="https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/Bryan-thumb.jpg" />
                 <div u="thumb" style="z-index: 1; font-family:calibri; font-size:15px;">
 					<br />
 					<table>
@@ -658,8 +658,8 @@
 				</div>
             </div>
             <div>
-                <img u="image" src="https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/Tin.jpg" />
-                <img u="thumb" src="https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/Tin-thumb.jpg" />
+                <img u="image" src="https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/Tin.jpg" />
+                <img u="thumb" src="https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/Tin-thumb.jpg" />
                 <div u="thumb" style="z-index: 1; font-family:calibri; font-size:15px;">
 					<br />
 					<table>
@@ -713,8 +713,8 @@
 				</div>
             </div>
             <div>
-                <img u="image" src="https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/Christian.jpg" />
-                <img u="thumb" src="https://raw.githubusercontent.com/gards25/sdt4Slider/master/SDT4_Profiler/images/Christian-thumb.jpg" />
+                <img u="image" src="https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/Christian.jpg" />
+                <img u="thumb" src="https://raw.githubusercontent.com/tinoliveria/testing//master/SDT4_Profiler/images/Christian-thumb.jpg" />
                 <div u="thumb" style="z-index: 1; font-family:calibri; font-size:15px;">
 					<br />
 					<table>
