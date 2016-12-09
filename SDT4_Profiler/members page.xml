@@ -153,7 +153,7 @@
     </script>
     <!-- Jssor Slider Begin -->
     <!-- You can move inline styles to css file or css block. -->
-		<h1> Revision 2</h1>
+		<h1> Revision 3</h1>
     <div id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 960px;
         height: 480px; background: #191919; overflow: hidden;">
 
@@ -171,7 +171,7 @@
             <div>
                 <img u="image" src="https://raw.githubusercontent.com/tinoliveria/testing/master/SDT4_Profiler/images/Gabby.jpg" />
                 <img u="thumb" src="https://raw.githubusercontent.com/tinoliveria/testing/master/SDT4_Profiler/images/Gabby-thumb.jpg" />
-                <div u="thumb" style="z-index: 1; font-family:calibri; font-size:15px;">
+                <div u="thumb" style="z-index: 0; font-family:calibri; font-size:15px;">
 					<br />
 					<table>
 						<tr>
